@@ -1,7 +1,7 @@
 
 html, body {
-    background-color: #fff;
-    background-image: url("/images/bglines.png")
+    background-color: #8F9E8B;
+    /*background-image: url("/images/bglines.png")*/
 }
 
 body {
@@ -13,13 +13,17 @@ blockquote p {
     line-height: 18px;
 }
 
+h6 {
+    color: #292929;
+}
+
 .page-header {
-    padding-left: 20px;
+    padding-left: 10px;
+    margin: 0;
 }
 
 .page-header h1 {
-    color: #678788;
-    /* CBD4D5 */
+    color: #292929;
 }
 
 .container-fluid {
@@ -31,7 +35,7 @@ blockquote p {
 }
 
 .main-content {
-    padding: 0 0 20px 0;
+    padding: 0 20px;
     min-height: 200px;
 }
 
@@ -51,13 +55,14 @@ footer {
 footer,
 footer a,
 footer a:hover {
-    background-color: #3f3f3f;
-    color: #deeeff;
+    background-color: #5B7876;
+    color: #292929;
 }
 
 
 .theme-default #slider {
     margin: 0 auto 0 20px;
     width:940px;
-    height:221px;
+    height: 581px;
+    /*height:221px;*/
 }
