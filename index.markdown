@@ -1,7 +1,7 @@
 ---
 layout: default
 home: true
-title:
+title: Eagles Nest Homeowners Association
 ---
 
 <div class="row">
