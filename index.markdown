@@ -20,9 +20,9 @@ title: Eagle's Nest Homeowners Association
                 <h4>Board Members</h4>
                 <br>
                 <ul>
-                    <li>Bianca Cross</li>
-                    <li>Nicole Rice</li>
-                    <li>M. Foy VonDolteren</li>
+                    <li>Stella Wurst - President</li>
+                    <li>Nicole Rice - Treasurer</li>
+                    <li>Joan Fisher - Secretary</li>
                 </ul>
                 <br>
                 <p>The HOA is comprised of three individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
