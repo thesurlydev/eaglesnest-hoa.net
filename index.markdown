@@ -16,7 +16,7 @@ title: Eagle's Nest Homeowners Association
                 <p>By purchasing real estate in Eagle's Nest at Kashwitna, the purchaser is bound by the bylaws, land use restrictions, and covenants, as indicated in the Eagle's Nest Public Use Statement.</p>
 
                 <br>
-                <h4>Community Documents</h4>
+                <h4>Documents</h4>
                 <br>
                 <ul>
                     <li><a href="files/ACC_Application_BoardApproved.pdf">Building/Remodeling Request Form</a></li>
