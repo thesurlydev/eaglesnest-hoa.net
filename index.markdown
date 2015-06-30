@@ -11,10 +11,22 @@ title: Eagle's Nest Homeowners Association
             	<h4>Eagle's Nest Pubic Use Statement</h4>
                 <p>(Please review before purchasing real estate)</p>
                 <br>
-                <p><a class="btn btn-large" href="/files/Eagles_Nest_Bylaws.pdf"><i class="icon-download"></i> Download Bylaws</a></p> 
+                <p align="center"><a class="btn btn-med" href="/files/Eagles_Nest_Bylaws.pdf"><i class="icon-download"></i> Download Bylaws</a></p> 
                 <br>
                 <p>By purchasing real estate in Eagle's Nest at Kashwitna, the purchaser is bound by the bylaws, land use restrictions, and covenants, as indicated in the Eagle's Nest Public Use Statement.</p>
 
+                <br>
+                <h4>Community Documents</h4>
+                <br>
+                <ul>
+                    <li><a href="files/ACC_Application_BoardApproved.pdf">Building/Remodeling Request Form</a></li>
+                    <li><a href="files/ACC_ResponseLetter_BoardApproved.pdf">Building/Remodeling Response Letter</a></li>
+                    <li><a href="files/Arch_Standards_Decision_Tree.pdf">Architectural Standards Decision Tree</a></li>
+                    <li><a href="files/Mission_Vision_Values_BoardApproved.pdf">Eagle's Nest Vision, Mission, Values</a></li>
+                    <li><a href="files/Penalty_Assessments_BoardApproved.pdf">Penalty Assessments</a></li>
+                    <li><a href="files/Welcome_Letter.pdf">Welcome Letter</a></li>
+                </ul>
+                <br>
             </div>
             <div class="span3">
                 <h4>Board Members</h4>
