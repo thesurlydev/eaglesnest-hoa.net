@@ -35,6 +35,7 @@ title: Eagle's Nest Homeowners Association
                     <li>Stella Wurst - President</li>
                     <li>Nicole Rice - Treasurer</li>
                     <li>Joan Fisher - Secretary</li>
+                    <li>Dona Malhiot-Laubhan - At Large</li>
                 </ul>
                 <br>
                 <p>The HOA is comprised of three individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
