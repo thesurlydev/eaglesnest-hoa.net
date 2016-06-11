@@ -32,7 +32,7 @@ title: Eagle's Nest Homeowners Association
                 <h4>Board Members</h4>
                 <br>
                 <ul>
-                    <li>Stella Wurst - President</li>
+                    <li>Open - President</li>
                     <li>Nicole Rice - Treasurer</li>
                     <li>Joan Fisher - Secretary</li>
                     <li>Dona Malhiot-Laubhan - At Large</li>
