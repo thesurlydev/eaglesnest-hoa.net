@@ -32,10 +32,10 @@ title: Eagle's Nest Homeowners Association
                 <h4>Board Members</h4>
                 <br>
                 <ul>
-                    <li>Open - President</li>
-                    <li>Nicole Rice - Treasurer</li>
+                    <li>Tom McKay - President</li>
+                    <li>Dona Malhiot-Laubhan - Member At Large</li>
+                    <li>Lee Rice - Treasurer</li>
                     <li>Joan Fisher - Secretary</li>
-                    <li>Dona Malhiot-Laubhan - At Large</li>
                 </ul>
                 <br>
                 <p>The HOA is comprised of three individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
