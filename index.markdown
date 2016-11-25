@@ -13,9 +13,7 @@ title: Eagle's Nest Homeowners Association
                 <br>
                 <p align="center"><a class="btn btn-med" href="/files/Eagles_Nest_Bylaws.pdf"><i class="icon-download"></i> Download Bylaws</a></p> 
                 <br>
-                <p>By purchasing real estate in Eagle's Nest at Kashwitna, the purchaser is bound by the bylaws, land use restrictions, and covenants, as indicated in the Eagle's Nest Public Use Statement.</p>
-
-                <br>
+                <p>By purchasing real estate in Eagle's Nest at Kashwitna, the purchaser is bound by the bylaws, land use restrictions, and covenants, as indicated in the Eagle's Nest Public Use Statement.</p> <br>
                 <h4>Documents</h4>
                 <br>
                 <ul>
