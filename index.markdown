@@ -38,6 +38,7 @@ title: Eagle's Nest Homeowners Association
                 <br>
                 <p>The HOA is comprised of three individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
                 <p><a href="mailto:board@eaglesnest-hoa.net">Email the board</a></p>
+                <p>Mailing Address:<br/>PO Box 142895<br/>Anchorage, AK 99514</p>
             </div>
             <div class="span4">
          		<h4>Eagle's Nest Home Owner's Association (HOA)</h4>
