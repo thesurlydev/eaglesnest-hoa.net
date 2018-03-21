@@ -17,7 +17,7 @@ title: Eagle's Nest Homeowners Association
                 <h4>Documents</h4>
                 <br>
                 <ul>
-                    <li><a href="files/ACC_Application_BoardApproved.pdf">Building/Remodeling Request Form</a></li>
+                    <li><a href="files/ACC_Building_Remodeling_Request_Form_Rev_2018.docx">Building/Remodeling Request Form</a></li>
                     <li><a href="files/ACC_ResponseLetter_BoardApproved.pdf">Building/Remodeling Response Letter</a></li>
                     <li><a href="files/Arch_Standards_Decision_Tree.pdf">Architectural Standards Decision Tree</a></li>
                     <li><a href="files/Mission_Vision_Values_BoardApproved.pdf">Eagle's Nest Vision, Mission, Values</a></li>
@@ -31,20 +31,20 @@ title: Eagle's Nest Homeowners Association
                 <br>
                 <ul>
                     <li>Tom McKay - President</li>
-                    <li>Dona Malhiot-Laubhan - Member At Large</li>
+                    <li>Dona Malhiot-Laubhan - Vice President</li>
                     <li>Lee Rice - Treasurer</li>
                     <li>Joan Fisher - Secretary</li>
                     <li>Alice Vander Martin - Assistant Secretary</li>
                 </ul>
                 <br>
-                <p>The HOA is comprised of three individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
+                <p>The HOA is comprised of five individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
                 <p><a href="mailto:board@eaglesnest-hoa.net">Email the board</a></p>
                 <p>Mailing Address:<br/>PO Box 142895<br/>Anchorage, AK 99514</p>
             </div>
             <div class="span4">
          		<h4>Eagle's Nest Home Owner's Association (HOA)</h4>
          		 <br>
-                 <p>Participation in the Eagle's Nest HOA is not voluntary, it is mandatory. By purchasing real estate in Eagle's Nest, you are agreeing to and bound by the information contained in the Eagle’s Nest Public Use Statement. Dues are assessed at $350 annually, per lot. This money is used for a variety of HOA related expenses, such as road maintenance, common area improvements, security, etc. The HOA sends written notice annually, to each owner, to collect those dues. Failure to pay annual dues can result in late payment penalties and, in extreme cases, a lien may be attached to the property.</p>
+                 <p>Participation in the Eagle's Nest HOA is not voluntary, it is mandatory. By purchasing real estate in Eagle's Nest, you are agreeing to and bound by the information contained in the Eagle’s Nest Public Use Statement. Dues are assessed at annually, per lot. This money is used for a variety of HOA related expenses, such as road maintenance, common area improvements, security, etc. The HOA sends written notice annually, to each owner, to collect those dues. Failure to pay annual dues can result in late payment penalties and, in extreme cases, a lien may be attached to the property.</p>
                  <br/>
                  <p align="center"><a href="https://www.facebook.com/groups/1270013769707308/"><img src="img/FB-FindUsonFacebook-online-114.png" width="114" height="21"/></a></p>                   	   
             </div>
