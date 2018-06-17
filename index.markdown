@@ -34,7 +34,6 @@ title: Eagle's Nest Homeowners Association
                     <li>Dona Malhiot-Laubhan - Vice President</li>
                     <li>Lee Rice - Treasurer</li>
                     <li>Joan Fisher - Secretary</li>
-                    <li>Alice Vander Martin - Assistant Secretary</li>
                 </ul>
                 <br>
                 <p>The HOA is comprised of five individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
