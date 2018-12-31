@@ -8,7 +8,7 @@ title: Eagle's Nest Homeowners Association
     <div class="span12">
     <div class="row">
             <div class="span4">
-            	<h4>Eagle's Nest Pubic Use Statement</h4>
+            	<h4>Eagle's Nest Public Use Statement</h4>
                 <p>(Please review before purchasing real estate)</p>
                 <br>
                 <p align="center"><a class="btn btn-med" href="/files/Eagles_Nest_Bylaws.pdf"><i class="icon-download"></i> Download Bylaws</a></p> 
