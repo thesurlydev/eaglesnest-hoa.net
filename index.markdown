@@ -33,7 +33,6 @@ title: Eagle's Nest Homeowners Association
                     <li>Tom McKay - President</li>
                     <li>Robert Stewart - Vice President</li>
                     <li>Crystal Garris - Secretary</li>
-                    <li>Lee Rice - Treasurer</li>
                     <li>Joseph Llewellyn - Asst. Secretary</li>
                 </ul>
                 <br>
