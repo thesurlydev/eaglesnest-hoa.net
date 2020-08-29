@@ -37,7 +37,7 @@ title: Eagle's Nest Homeowners Association
                 <br>
                 <p>The HOA is comprised of five individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
                 <p><a href="mailto:board@eaglesnest-hoa.net">Email the board</a></p>
-                <p>Mailing Address:<br/>Cantrell Services/ Eagles Nest at Kashwitna<br/>P.O. Box 240485<br>ANCHORAGE, AK 99524</p>
+                <p><strong>Mailing Address</strong>:<br/>Cantrell Services/ Eagles Nest at Kashwitna<br/>P.O. Box 240485<br>ANCHORAGE, AK 99524</p>
             </div>
             <div class="span4">
          		<h4>Eagle's Nest Home Owner's Association (HOA)</h4>
