@@ -30,7 +30,8 @@ title: Eagle's Nest Homeowners Association
                 <h4>Board Members</h4>
                 <br>
                 <ul>
-                    <li>Tom McKay - President</li>                    
+                    <li>Tom McKay - President</li>
+                    <li>Chris Black - Vice President</li>
                     <li>Crystal Garris - Secretary</li>
                     <li>Joseph Llewellyn - Asst. Secretary</li>
                 </ul>
