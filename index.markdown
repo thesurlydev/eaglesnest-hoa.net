@@ -17,7 +17,7 @@ title: Eagle's Nest Homeowners Association
                 <h4>Documents</h4>
                 <br>
                 <ul>
-                    <li><a href="files/ACC_Building_Remodeling_Request_Form_Rev_2018.docx">Building/Remodeling Request Form</a></li>
+                    <li><a href="files/ACC_Building_Remodeling_Request_Form_Rev_2022.pdf">Building/Remodeling Request Form</a> (Rev. 2022)</li>
                     <li><a href="files/ACC_ResponseLetter_BoardApproved.pdf">Building/Remodeling Response Letter</a></li>
                     <li><a href="files/Arch_Standards_Decision_Tree.pdf">Architectural Standards Decision Tree</a></li>
                     <li><a href="files/Mission_Vision_Values_BoardApproved.pdf">Eagle's Nest Vision, Mission, Values</a></li>
