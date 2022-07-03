@@ -30,10 +30,11 @@ title: Eagle's Nest Homeowners Association
                 <h4>Board Members</h4>
                 <br>
                 <ul>
-                    <li>Tom McKay - President</li>
-                    <li>Chris Black - Vice President</li>
-                    <li>Crystal Garris - Secretary</li>
-                    <li>Joseph Llewellyn - Asst. Secretary</li>
+                    <li>Chris Black - President</li>
+                    <li>Kevin Dunlevy - Vice President</li>
+                    <li>Harry Goslin - Secretary</li>
+                    <li>Crystal Garris - Treasurer</li>
+                    <li>Tom McKay - Member at Large</li>
                 </ul>
                 <br>
                 <p>The HOA is comprised of five individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
