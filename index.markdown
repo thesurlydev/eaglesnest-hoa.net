@@ -35,7 +35,7 @@ title: Eagle's Nest Homeowners Association
                     <li>Harry Goslin - Director at Large</li>
                     <li>Crystal Garris - Secretary</li>
                     <li>Lee Rice - Treasurer</li>
-                    <li>Grep Fullmer - Asst. Treasurer</li>
+                    <li>Greg Fullmer - Asst. Treasurer</li>
                 </ul>
                 <br>
                 <p>The HOA is comprised of five individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
