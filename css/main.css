@@ -13,6 +13,10 @@ blockquote p {
     line-height: 18px;
 }
 
+.centered {
+    text-align: center;
+}
+
 .navbar {
 
 }
