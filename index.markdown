@@ -30,12 +30,11 @@ title: Eagle's Nest Homeowners Association
                 <h4>Board Members</h4>
                 <br>
                 <ul>
-                    <li>Harry Goslin - President</li>
-                    <li>Kevin Dunlevy - Vice President</li>
-                    <li>Crystal Garris - Secretary</li>
-                    <li>Tom McKay - Asst. Secretary</li>
-                    <li>Chris Black - Treasurer</li>
-                    <li>Greg Fullmer - Asst. Treasurer</li>
+                    <li>Chris Black - President</li>
+                    <li>Patrick Stewart - Vice President</li>
+                    <li>Tom McKay - Secretary</li>                    
+                    <li>Crystal Garris - Treasurer</li>
+                    <li>Greg Fullmer - Director at Large</li>
                 </ul>
                 <br>
                 <p>The HOA is comprised of six individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
