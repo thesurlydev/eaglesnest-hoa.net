@@ -29,17 +29,19 @@ title: Eagle's Nest Homeowners Association
             <div class="span3">
                 <h4>Board Members</h4>
                 <br>
+                <p>Election of officers. The following slate of officers was unanimously agreed upon to serve:</p>   
                 <ul>
-                    <li>Chris Black - President</li>
-                    <li>Patrick Stewart - Vice President</li>
-                    <li>Tom McKay - Secretary</li>                    
-                    <li>Crystal Garris - Treasurer</li>
-                    <li>Greg Fullmer - Director at Large</li>
+                    <li>Patrick Stewart - President (Seat D) Exp. 8/27</li>
+                    <li>Crystal Garris - Vice President (Seat B) Exp. 8/26</li>
+                    <li>Lori Browning - Secretary (Seat E) Exp. 8/26</li>                    
+                    <li>Kayla Almasy - Assist. Secretary (Seat C) Exp. 8/26</li>                    
+                    <li>Tom McKay - Treasurer (Seat A) Exp. 8/25</li>
+                    <li>Greg Fullmer - Assist. Treasurer (Seat F) Exp. 8/25</li>
                 </ul>
                 <br>
                 <p>The HOA is comprised of six individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
                 <p><a href="mailto:board@eaglesnest-hoa.net">Email the board</a></p>
-                <p><strong>Mailing Address</strong>:<br/>Cantrell Services/ Eagles Nest at Kashwitna<br/>P.O. Box 240485<br>ANCHORAGE, AK 99524</p>
+                <p><strong>Mailing Address</strong>:<br/>Cantrell Real Estate/ Eagles Nest at Kashwitna<br/>P.O. Box 240485<br>Anchorage, AK 99524</p>
             </div>
             <div class="span4">
          		<h4>Eagle's Nest Homeowner's Association (HOA)</h4>
