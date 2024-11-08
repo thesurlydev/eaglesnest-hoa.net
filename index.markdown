@@ -31,12 +31,12 @@ title: Eagle's Nest Homeowners Association
                 <br>
                 <p>Election of officers. The following slate of officers was unanimously agreed upon to serve:</p>   
                 <ul>
-                    <li>Patrick Stewart - President (Seat D) Exp. 8/27</li>
-                    <li>Crystal Garris - Vice President (Seat B) Exp. 8/26</li>
-                    <li>Lori Browning - Secretary (Seat E) Exp. 8/26</li>                    
-                    <li>Kayla Almasy - Assist. Secretary (Seat C) Exp. 8/26</li>                    
-                    <li>Tom McKay - Treasurer (Seat A) Exp. 8/25</li>
-                    <li>Greg Fullmer - Assist. Treasurer (Seat F) Exp. 8/25</li>
+                    <li><strong>Patrick Stewart - President</strong> (Seat D) Exp. 8/27</li>
+                    <li><strong>Crystal Garris - Vice President</strong> (Seat B) Exp. 8/26</li>
+                    <li><strong>Lori Browning - Secretary</strong> (Seat E) Exp. 8/26</li>                    
+                    <li><strong>Kayla Almasy - Assist. Secretary</strong> (Seat C) Exp. 8/26</li>                    
+                    <li><strong>Tom McKay - Treasurer</strong> (Seat A) Exp. 8/25</li>
+                    <li><strong>Greg Fullmer - Assist. Treasurer</strong> (Seat F) Exp. 8/25</li>
                 </ul>
                 <br>
                 <p>The HOA is comprised of six individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
