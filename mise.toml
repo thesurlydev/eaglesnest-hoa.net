@@ -1,0 +1,27 @@
+[tools]
+ruby = "3.3"
+
+[tasks.install]
+description = "Install Ruby gems"
+run = "bundle install"
+sources = ["Gemfile", "Gemfile.lock"]
+outputs = { auto = true }
+
+[tasks.serve]
+description = "Serve the site locally with live reload"
+depends = ["install"]
+run = "bundle exec jekyll serve --livereload"
+
+[tasks.build]
+description = "Build the site into _site"
+depends = ["install"]
+run = "bundle exec jekyll build"
+
+[tasks.check]
+description = "Check the site configuration for problems"
+depends = ["install"]
+run = "bundle exec jekyll doctor"
+
+[tasks.clean]
+description = "Remove generated site and caches"
+run = "bundle exec jekyll clean"
