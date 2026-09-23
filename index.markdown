@@ -26,24 +26,24 @@ title: Eagle's Nest Homeowners Association
                 </ul>
                 <br>
             </div>
-            <div class="span3">
+            <div class="span4">
                 <h4>Board Members</h4>
                 <br>
                 <p>Election of officers. The following slate of officers was unanimously agreed upon to serve:</p>   
                 <ul>
-                    <li><strong>Patrick Stewart - President</strong><br/>(Seat D) Exp. 8/27</li>
-                    <li><strong>Crystal Garris - Vice President</strong><br/>(Seat B) Exp. 8/26</li>
-                    <li><strong>Lori Browning - Secretary</strong><br/>(Seat E) Exp. 8/26</li>                    
-                    <li><strong>Kayla Almasy - Assist. Secretary</strong><br/>(Seat C) Exp. 8/26</li>                    
-                    <li><strong>Tom McKay - Treasurer</strong><br/>(Seat A) Exp. 8/25</li>
-                    <li><strong>Greg Fullmer - Assist. Treasurer</strong><br/>(Seat F) Exp. 8/25</li>
+                    <li><strong>Crystal Garris - President</strong><br/>(Seat B) Exp. 8/29</li>
+                    <li><strong>Brandon Strauch - Vice President</strong><br/>(Seat A) Exp. 8/28</li>
+                    <li><strong>Angela Reynolds - Treasurer</strong><br/>(Seat D) Exp. 8/27</li>
+                    <li><strong>Karen Marquis - Secretary</strong><br/>(Seat E) Exp. 8/27</li>                    
+                    <li><strong>Kayla Almasy - Assist. Secretary</strong><br/>(Seat C) Exp. 8/29</li>                    
+                    <li><strong>Greg Fullmer - Member at Large</strong><br/>(Seat F) Exp. 8/28</li>
                 </ul>
                 <br>
                 <p>The HOA is comprised of six individuals elected from and by, the general membership. All positions are voluntary and no members receive any type of compensation for their service.</p>
                 <p><a href="mailto:board@eaglesnest-hoa.net">Email the board</a></p>
                 <p><strong>Mailing Address</strong>:<br/>Cantrell Real Estate/ Eagles Nest at Kashwitna<br/>P.O. Box 240485<br>Anchorage, AK 99524</p>
             </div>
-            <div class="span4">
+            <div class="span3">
          		<h4>Eagle's Nest Homeowner's Association (HOA)</h4>
          		 <br>
                  <p>Participation in the Eagle's Nest HOA is not voluntary, it is mandatory. By purchasing real estate in Eagle's Nest, you are agreeing to and bound by the information contained in the Eagle’s Nest Public Use Statement. Dues are assessed at annually, per lot. This money is used for a variety of HOA related expenses, such as road maintenance, common area improvements, security, etc. The HOA sends written notice annually, to each owner, to collect those dues. Failure to pay annual dues can result in late payment penalties and, in extreme cases, a lien may be attached to the property.</p>
